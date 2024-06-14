@@ -9,3 +9,4 @@ portainer/portainer-ce:latest
 ghcr.io/sagernet/sing-box:latest
 mitmproxy/mitmproxy:latest
 python:alpine3.20
+cooderl/wewe-rss-sqlite:latest
