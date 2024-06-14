@@ -8,4 +8,4 @@ adguard/adguardhome:latest
 portainer/portainer-ce:latest
 ghcr.io/sagernet/sing-box:latest
 mitmproxy/mitmproxy:latest
-python:alpine3.19
+python:alpine3.20
