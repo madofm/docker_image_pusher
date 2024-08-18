@@ -14,3 +14,4 @@ syncthing/syncthing:latest
 syncthing/relaysrv:latest
 syncthing/discosrv:latest
 --platform=linux/amd64 xiaoyaliu/alist:latest
+--platform=linux/amd64 xhofe/alist:latest
