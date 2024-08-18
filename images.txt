@@ -13,4 +13,4 @@ cooderl/wewe-rss-sqlite:latest
 syncthing/syncthing:latest
 syncthing/relaysrv:latest
 syncthing/discosrv:latest
-xiaoyaliu/alist:latest
+--platform=linux/amd64 xiaoyaliu/alist:latest
