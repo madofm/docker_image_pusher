@@ -15,4 +15,4 @@ syncthing/relaysrv:latest
 syncthing/discosrv:latest
 #--platform=linux/amd64 xiaoyaliu/alist:latest
 --platform=linux/amd64 xiaoyaliu/alist:hostmode
---platform=linux/amd64 alist-org/alist:latest
+--platform=linux/amd64 xhofe/alist:latest
